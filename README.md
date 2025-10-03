@@ -1,1 +1,0 @@
-# my_dbt_duckdb_project
